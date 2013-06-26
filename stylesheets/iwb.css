@@ -1,0 +1,159 @@
+html {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	margin: 0px;
+	padding: 0px;
+	font-family: "Myriad Pro", "Lucida Grande", "Lucida Sans Unicode", "Gill Sans", Calibri, Arial, sans-serif;
+	background-image: url(/images/background.png);
+	background-repeat: repeat-x;
+	background-position: top;
+	background-color: #ffffff;
+}
+
+h2 {
+	color: #aa0000;
+	font-size: 24px;
+}
+h4 {
+	color: #718484;
+	font-size: 18px;
+	text-align: left;
+}
+
+a:link {
+	color: #718484;
+}
+a:visited {
+	color: #718484;
+}
+a:hover, a:active {
+	color: #718484;
+}
+
+#header {
+	height: 20px;
+	background: #ffffff;
+	text-align: center;
+}
+
+#titleback {
+	background-image: url(/images/titleBack.png);
+	background-repeat: repeat-x;
+	background-position: top;
+	height: 120px;
+}
+#title {
+	width: 720px;
+	margin-right: auto;
+	margin-left: auto;
+}
+#titlelogo {
+	width: 150px;
+	float: left;
+	padding-left: 75px;
+}
+#titlewords {
+	width: 375px;
+	padding-top: 20px;
+	padding-right: 75px;
+	float: right;
+}
+
+#content {
+	background-image: url(/images/WhiteMatteWithShadow.png);
+	background-repeat: no-repeat;
+	//background-size: 100%;
+	width: 720px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: left;
+}
+
+#blankcontent {
+	background: #ffffff;
+	width: 720px;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 10px;
+	padding-left: 50px;
+	padding-right: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+	text-align: left;
+}
+
+#main {
+	padding-top: 50px;
+}
+#main table {
+	width: 650px;
+	height: 400px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#votefor {
+	height: 80px;
+	text-align: right;
+}
+
+#contact {
+	color: #718484;
+	font-size: 16px;
+	text-align: right;
+}
+#footer {
+	color: #718484;
+	font-size: 10px;
+	text-align: right;
+}
+
+#myalbums {
+	color: #718484;
+	font-size: 12px;
+	text-align: left;
+}
+#myalbums table {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#myphotos {
+	
+}
+#myphotos table {
+	width: 500px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#choose {
+}
+#choose table {
+	width: 650px;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#choosepanel {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+#examplegallery {
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
